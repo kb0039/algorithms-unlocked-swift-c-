@@ -1,2 +1,3 @@
 *.swift linguist-detectable=true
 *.swift linguist-language=Swift
+*.playground linguist-language=Swift
