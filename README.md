@@ -16,13 +16,31 @@ You can simply run the executable files the with the following commands in Linux
 
 First: Access the correct directory
 ```bash
-$ cd yourSourcePath/"Algorithms Unlocked"/src/C++/"Chapter 2"
+$ cd YourSourcePath/"Algorithms Unlocked"/src/C++/ch2
 ```
 
 Then run executable in that folder:
 
 ```bash
-$ ./linearSearch
+$ ./LinearSearch
 ```
 
 Or you can use your own IDE or download [CLION](https://www.jetbrains.com/clion/download/).
+
+### C# (VS or VS Code)
+
+> - [Download Xcode](https://developer.apple.com/xcode/)
+> - Once the installion is finished, simply doule-click on the .sln file in the desired path and run the program in your IDE.
+> - You can also run the program via Terminal in Linux or Mac OSX (See Below)
+
+First: Access the correct directory
+```bash
+$ cd YourSourcePath/"Algorithms Unlocked"/src/C++/ch3/MergeSort
+```
+
+Then run the two commands in your current directory:
+
+```bash
+$ dotnet build
+$ dotnet run
+```
