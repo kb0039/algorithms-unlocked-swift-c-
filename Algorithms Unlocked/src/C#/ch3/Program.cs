@@ -36,7 +36,7 @@ namespace ch3
             int infinity =  100000000;
             int i = 0, j = 0;
 
-            int[] B = new int [n1 +1];
+            int[] B = new int [n1 + 1];
             int[] C = new int [n2 + 1];
 
              for (i = 0; i < n1; i++){
