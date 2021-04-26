@@ -1,0 +1,12 @@
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/stacks/bin/Debug/netcoreapp3.1/stacks.deps.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/stacks/bin/Debug/netcoreapp3.1/stacks.runtimeconfig.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/stacks/bin/Debug/netcoreapp3.1/stacks.runtimeconfig.dev.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/stacks/bin/Debug/netcoreapp3.1/stacks.dll
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/stacks/bin/Debug/netcoreapp3.1/stacks.pdb
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/stacks/obj/Debug/netcoreapp3.1/stacks.csprojAssemblyReference.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/stacks/obj/Debug/netcoreapp3.1/stacks.AssemblyInfoInputs.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/stacks/obj/Debug/netcoreapp3.1/stacks.AssemblyInfo.cs
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/stacks/obj/Debug/netcoreapp3.1/stacks.csproj.CoreCompileInputs.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/stacks/obj/Debug/netcoreapp3.1/stacks.dll
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/stacks/obj/Debug/netcoreapp3.1/stacks.pdb
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/stacks/obj/Debug/netcoreapp3.1/stacks.genruntimeconfig.cache

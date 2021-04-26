@@ -1,0 +1,12 @@
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/SentinelLinearSearch/bin/Debug/netcoreapp3.1/SentinelLinearSearch.deps.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/SentinelLinearSearch/bin/Debug/netcoreapp3.1/SentinelLinearSearch.runtimeconfig.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/SentinelLinearSearch/bin/Debug/netcoreapp3.1/SentinelLinearSearch.runtimeconfig.dev.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/SentinelLinearSearch/bin/Debug/netcoreapp3.1/SentinelLinearSearch.dll
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/SentinelLinearSearch/bin/Debug/netcoreapp3.1/SentinelLinearSearch.pdb
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/SentinelLinearSearch/obj/Debug/netcoreapp3.1/SentinelLinearSearch.csprojAssemblyReference.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/SentinelLinearSearch/obj/Debug/netcoreapp3.1/SentinelLinearSearch.AssemblyInfoInputs.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/SentinelLinearSearch/obj/Debug/netcoreapp3.1/SentinelLinearSearch.AssemblyInfo.cs
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/SentinelLinearSearch/obj/Debug/netcoreapp3.1/SentinelLinearSearch.csproj.CoreCompileInputs.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/SentinelLinearSearch/obj/Debug/netcoreapp3.1/SentinelLinearSearch.dll
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/SentinelLinearSearch/obj/Debug/netcoreapp3.1/SentinelLinearSearch.pdb
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/SentinelLinearSearch/obj/Debug/netcoreapp3.1/SentinelLinearSearch.genruntimeconfig.cache

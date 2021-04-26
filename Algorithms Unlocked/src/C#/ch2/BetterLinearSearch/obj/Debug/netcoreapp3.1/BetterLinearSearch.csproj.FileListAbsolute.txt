@@ -1,0 +1,12 @@
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/BetterLinearSearch/obj/Debug/netcoreapp3.1/BetterLinearSearch.csprojAssemblyReference.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/BetterLinearSearch/obj/Debug/netcoreapp3.1/BetterLinearSearch.AssemblyInfoInputs.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/BetterLinearSearch/obj/Debug/netcoreapp3.1/BetterLinearSearch.AssemblyInfo.cs
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/BetterLinearSearch/obj/Debug/netcoreapp3.1/BetterLinearSearch.csproj.CoreCompileInputs.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/BetterLinearSearch/bin/Debug/netcoreapp3.1/BetterLinearSearch.deps.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/BetterLinearSearch/bin/Debug/netcoreapp3.1/BetterLinearSearch.runtimeconfig.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/BetterLinearSearch/bin/Debug/netcoreapp3.1/BetterLinearSearch.runtimeconfig.dev.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/BetterLinearSearch/bin/Debug/netcoreapp3.1/BetterLinearSearch.dll
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/BetterLinearSearch/bin/Debug/netcoreapp3.1/BetterLinearSearch.pdb
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/BetterLinearSearch/obj/Debug/netcoreapp3.1/BetterLinearSearch.dll
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/BetterLinearSearch/obj/Debug/netcoreapp3.1/BetterLinearSearch.pdb
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/BetterLinearSearch/obj/Debug/netcoreapp3.1/BetterLinearSearch.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.deps.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.runtimeconfig.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.runtimeconfig.dev.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.dll
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.pdb
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.csprojAssemblyReference.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.AssemblyInfoInputs.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.AssemblyInfo.cs
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.csproj.CoreCompileInputs.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.dll
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.pdb
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.genruntimeconfig.cache

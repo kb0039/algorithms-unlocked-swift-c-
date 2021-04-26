@@ -1,0 +1,12 @@
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/RecursiveLinearSearch/obj/Debug/netcoreapp3.1/RecursiveLinearSearch.csprojAssemblyReference.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/RecursiveLinearSearch/obj/Debug/netcoreapp3.1/RecursiveLinearSearch.AssemblyInfoInputs.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/RecursiveLinearSearch/obj/Debug/netcoreapp3.1/RecursiveLinearSearch.AssemblyInfo.cs
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/RecursiveLinearSearch/obj/Debug/netcoreapp3.1/RecursiveLinearSearch.csproj.CoreCompileInputs.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/RecursiveLinearSearch/bin/Debug/netcoreapp3.1/RecursiveLinearSearch.deps.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/RecursiveLinearSearch/bin/Debug/netcoreapp3.1/RecursiveLinearSearch.runtimeconfig.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/RecursiveLinearSearch/bin/Debug/netcoreapp3.1/RecursiveLinearSearch.runtimeconfig.dev.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/RecursiveLinearSearch/bin/Debug/netcoreapp3.1/RecursiveLinearSearch.dll
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/RecursiveLinearSearch/bin/Debug/netcoreapp3.1/RecursiveLinearSearch.pdb
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/RecursiveLinearSearch/obj/Debug/netcoreapp3.1/RecursiveLinearSearch.dll
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/RecursiveLinearSearch/obj/Debug/netcoreapp3.1/RecursiveLinearSearch.pdb
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch2/RecursiveLinearSearch/obj/Debug/netcoreapp3.1/RecursiveLinearSearch.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/RecurisveBinarySearch/bin/Debug/netcoreapp3.1/RecurisveBinarySearch.deps.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/RecurisveBinarySearch/bin/Debug/netcoreapp3.1/RecurisveBinarySearch.runtimeconfig.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/RecurisveBinarySearch/bin/Debug/netcoreapp3.1/RecurisveBinarySearch.runtimeconfig.dev.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/RecurisveBinarySearch/bin/Debug/netcoreapp3.1/RecurisveBinarySearch.dll
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/RecurisveBinarySearch/bin/Debug/netcoreapp3.1/RecurisveBinarySearch.pdb
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/RecurisveBinarySearch/obj/Debug/netcoreapp3.1/RecurisveBinarySearch.csprojAssemblyReference.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/RecurisveBinarySearch/obj/Debug/netcoreapp3.1/RecurisveBinarySearch.AssemblyInfoInputs.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/RecurisveBinarySearch/obj/Debug/netcoreapp3.1/RecurisveBinarySearch.AssemblyInfo.cs
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/RecurisveBinarySearch/obj/Debug/netcoreapp3.1/RecurisveBinarySearch.csproj.CoreCompileInputs.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/RecurisveBinarySearch/obj/Debug/netcoreapp3.1/RecurisveBinarySearch.dll
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/RecurisveBinarySearch/obj/Debug/netcoreapp3.1/RecurisveBinarySearch.pdb
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch3/RecurisveBinarySearch/obj/Debug/netcoreapp3.1/RecurisveBinarySearch.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/10.2/LinkedLists/bin/Debug/netcoreapp3.1/LinkedLists.deps.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/10.2/LinkedLists/bin/Debug/netcoreapp3.1/LinkedLists.runtimeconfig.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/10.2/LinkedLists/bin/Debug/netcoreapp3.1/LinkedLists.runtimeconfig.dev.json
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/10.2/LinkedLists/bin/Debug/netcoreapp3.1/LinkedLists.dll
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/10.2/LinkedLists/bin/Debug/netcoreapp3.1/LinkedLists.pdb
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/10.2/LinkedLists/obj/Debug/netcoreapp3.1/LinkedLists.csprojAssemblyReference.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/10.2/LinkedLists/obj/Debug/netcoreapp3.1/LinkedLists.AssemblyInfoInputs.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/10.2/LinkedLists/obj/Debug/netcoreapp3.1/LinkedLists.AssemblyInfo.cs
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/10.2/LinkedLists/obj/Debug/netcoreapp3.1/LinkedLists.csproj.CoreCompileInputs.cache
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/10.2/LinkedLists/obj/Debug/netcoreapp3.1/LinkedLists.dll
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/10.2/LinkedLists/obj/Debug/netcoreapp3.1/LinkedLists.pdb
+/Users/yokellc/Desktop/SWE/ALGORITHMS/algorithms-unlocked-swift-c-csharp-/Algorithms Unlocked/src/C#/ch10/10.2/LinkedLists/obj/Debug/netcoreapp3.1/LinkedLists.genruntimeconfig.cache
