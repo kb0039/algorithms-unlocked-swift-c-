@@ -48,6 +48,8 @@ on:
   push:
     branches: [ "master" ]
   pull_request:
+  repository_dispatch:
+    types: [test_result]
 
 permissions:
   contents: read
